@@ -1,8 +1,9 @@
 ## Hey 👋, I'm Vishal Ranaut!  
   
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-ranaut/) 
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-ranaut/)
 
+<br/>  
 
 ### About Me  
 I bring a wealth of experience to the table. Proficient in Node.js and React/Angular, I'm well-versed in high-pressure corporate environments, consistently delivering top-notch efficiency and productivity.
@@ -75,8 +76,3 @@ I bring a wealth of experience to the table. Proficient in Node.js and React/Ang
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
