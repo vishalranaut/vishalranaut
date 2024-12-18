@@ -1,18 +1,13 @@
 ## Hey 👋, I'm Vishal Ranaut!  
   
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-ranaut/)
-
-<br/>  
-
-### About Me  
+# 💫 About Me:
 I bring a wealth of experience to the table. Proficient in Node.js and React/Angular, I'm well-versed in high-pressure corporate environments, consistently delivering top-notch efficiency and productivity.
-  
-  
 
-<br/>    
 
-## Languages and Tools  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-ranaut/) 
+
+# 💻 Tech Stack: 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
@@ -53,26 +48,14 @@ I bring a wealth of experience to the table. Proficient in Node.js and React/Ang
 
 <br/>  
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vishalranaut&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vishalranaut&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalranaut&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vishalranaut&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishalranaut&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalranaut&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=vishalranaut&&style=flat-square)  
-  
-
-<br/>  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
