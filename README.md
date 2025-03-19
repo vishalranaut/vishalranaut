@@ -53,6 +53,11 @@ I bring a wealth of experience in full-stack development, specializing in **Node
 
 ---
 
+### ⚡ GitHub Activity:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalranaut&theme=github-dark)
+
+---
+
 ### 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=vishalranaut&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
@@ -60,6 +65,11 @@ I bring a wealth of experience in full-stack development, specializing in **Node
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 😂 Fun Meme:
+![Meme](https://random-memer.herokuapp.com/)
 
 ---
 
