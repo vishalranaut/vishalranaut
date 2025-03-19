@@ -53,13 +53,13 @@ I bring a wealth of experience in full-stack development, specializing in **Node
 
 ---
 
-### ⚡ GitHub Activity:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalranaut&theme=github-dark)
+### 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=vishalranaut&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=vishalranaut&theme=react&no-frame=false&no-bg=true&margin-w=4)
+### 🐍 GitHub Contribution Snake:
+![GitHub Snake Animation](https://github.com/vishalranaut/vishalranaut/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
