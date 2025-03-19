@@ -54,7 +54,7 @@ I bring a wealth of experience in full-stack development, specializing in **Node
 ---
 
 ### ⚡ GitHub Activity:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalranaut&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vishalranaut&theme=github-dark)
 
 ---
 
@@ -69,7 +69,7 @@ I bring a wealth of experience in full-stack development, specializing in **Node
 ---
 
 ### 😂 Fun Meme:
-![Meme](https://random-memer.herokuapp.com/)
+![Meme](https://i.imgur.com/a8O6hU3.jpeg)
 
 ---
 
