@@ -58,11 +58,6 @@ I bring a wealth of experience in full-stack development, specializing in **Node
 
 ---
 
-### 🐍 GitHub Contribution Snake:
-![GitHub Snake Animation](https://github.com/vishalranaut/vishalranaut/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
