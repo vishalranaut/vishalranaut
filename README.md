@@ -32,7 +32,6 @@ I bring a wealth of experience in full-stack development, specializing in **Node
 ![WebSocket](https://img.shields.io/badge/WebSocket-4353FF?style=for-the-badge&logo=websocket&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-3C5280?style=for-the-badge&logo=cisco&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### 🛠 DevOps & Cloud:
