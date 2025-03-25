@@ -54,7 +54,7 @@ I bring a wealth of experience in full-stack development, specializing in **Node
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalranaut&theme=github_dark&hide_border=false" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalranaut&theme=github_dark&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalranaut&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="48%" />
 </div>
 
