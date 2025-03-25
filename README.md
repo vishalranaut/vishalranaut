@@ -1,53 +1,73 @@
 # Hey there! 👋 I'm Vishal Ranaut  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B93E&width=435&lines=Full-Stack+Developer;Passionate+about+Innovation;Expert+in+Node.js%2C+React%2C+Angular;Building+Scalable+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/vishalranaut/vishalranaut/blob/main/animated-banner.gif" width="100%" />
+</p>
+
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** specializing in **Node.js, React, and Angular**. With years of experience in high-performance corporate environments, I thrive on building efficient, scalable, and innovative solutions that drive success.
+I'm a visionary **Full-Stack Developer** with expertise in **Node.js, React, and Angular**. I have a deep passion for creating cutting-edge digital solutions that are not just functional but also innovative. I thrive in high-performance environments, always pushing the boundaries of what's possible in web development.
 
 ---
 
-## 🔗 Connect With Me
+## 🌍 Let's Connect
 💼 [LinkedIn](https://www.linkedin.com/in/vishal-ranaut/)  
-📧 [Email](mailto:your.email@example.com)
+📧 [Email](mailto:your.email@example.com)  
+🚀 [Portfolio](#) (Add your portfolio link here)
 
 ---
 
-## 🛠️ My Tech Stack
-### 🎨 Frontend
-- ⚛️ **React** | 🅰️ **Angular** | 🔗 **Next.js** | 🎨 **Tailwind CSS**
+## ⚡ My Tech Arsenal
+### 🎨 Frontend Mastery
+🚀 **React** | 🅰️ **Angular** | 🔗 **Next.js** | 🎨 **Tailwind CSS**
 
 ### ⚙️ Backend & Databases
-- 🟢 **Node.js** | ⚡ **Express.js** | 🚀 **NestJS**  
-- 🗄️ **MySQL** | 🍃 **MongoDB** | 🐘 **PostgreSQL** | 🔴 **Redis**
+🟢 **Node.js** | ⚡ **Express.js** | 🚀 **NestJS**  
+🗄️ **MySQL** | 🍃 **MongoDB** | 🐘 **PostgreSQL** | 🔴 **Redis**
 
-### 📡 Real-time & Communication
-- 📡 **Socket.io** | 🔵 **WebSockets** | 🔄 **gRPC** | 🔗 **tRPC**  
+### 🔄 Real-time & Communication
+📡 **Socket.io** | 🔵 **WebSockets** | 🔄 **gRPC** | 🔗 **tRPC**  
 
 ### ☁️ Cloud & DevOps
-- ☁️ **AWS** | ☁️ **Google Cloud** | ☁️ **Azure**  
-- 🐳 **Docker** | ☸️ **Kubernetes** | 🔧 **Jenkins** | 🌍 **Nginx**
+☁️ **AWS** | ☁️ **Google Cloud** | ☁️ **Azure**  
+🐳 **Docker** | ☸️ **Kubernetes** | 🔧 **Jenkins** | 🌍 **Nginx**
 
-### 🔗 Other Technologies
-- ⚡ **GraphQL** | 📨 **RabbitMQ** | ⚡ **Kafka** | 🖋️ **Prisma** | 🦀 **Rust**
-
----
-
-## 📊 GitHub Stats & Insights
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=vishalranaut&theme=github-dark&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalranaut&theme=github-dark&hide_border=false&layout=compact" width="48%" />
-</div>
-
+### 🛠️ Other Technologies
+⚡ **GraphQL** | 📨 **RabbitMQ** | ⚡ **Kafka** | 🖋️ **Prisma** | 🦀 **Rust**
 
 ---
 
-## 🏆 GitHub Achievements
+## 🚀 GitHub Insights
+📌 **Contributions that matter, code that inspires!**
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vishalranaut&show_icons=true&theme=radical" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalranaut&layout=compact&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/vishalranaut/vishalranaut/blob/main/code-animation.gif" width="100%" />
+</p>
+
+---
+
+## 🏆 Developer Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vishalranaut&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 💡 Inspirational Quote
-> "First, solve the problem. Then, write the code." - *John Johnson*
+## 💡 Words to Code By
+> "Innovation distinguishes between a leader and a follower." - *Steve Jobs*
 
-🚀 **Let's build the future, one line of code at a time!**
-
+🚀 **Let's collaborate and innovate together!**
