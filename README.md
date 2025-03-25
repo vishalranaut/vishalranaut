@@ -14,9 +14,7 @@ I'm a visionary **Full-Stack Developer** with expertise in **Node.js, React, and
 ---
 
 ## 🌍 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/vishal-ranaut/)  
-📧 [Email](mailto:your.email@example.com)  
-🚀 [Portfolio](#) (Add your portfolio link here)
+💼 [LinkedIn](https://www.linkedin.com/in/vishal-ranaut/)
 
 ---
 
