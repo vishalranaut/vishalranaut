@@ -1,14 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Ranaut&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
 
 <br/>
-
+<br/>
+<br/>
 <div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Architecting+Digital+Excellence+%F0%9F%92%A1;Node.js+%7C+React+%7C+Angular+Expert;Building+Next-Gen+Solutions+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 <br/>
-
+<br/>
+<br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-ranaut/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animate=pulse" alt="LinkedIn"/>
