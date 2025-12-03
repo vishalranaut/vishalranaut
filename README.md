@@ -52,7 +52,7 @@ const vishal = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30"> Quick Highlights
 
@@ -85,7 +85,7 @@ const vishal = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> Coding Metrics & Stats
 
@@ -123,7 +123,7 @@ Rust         ██░░░░░░░░░░░░░░░░░░   10.2
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Arsenal
 
@@ -236,183 +236,37 @@ Rust         ██░░░░░░░░░░░░░░░░░░   10.2
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=vishalranaut&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="100%" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalranaut&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalranaut&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalranaut&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalranaut&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalranaut&layout=donut&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=vishalranaut&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&custom_title=Coding%20Activity" alt="Coding Activity" width="45%" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalranaut&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&radius=15" alt="Contribution Graph" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishalranaut&theme=radical" alt="Profile Summary" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294009-c710be52-f1f2-4553-a53f-6e14b3522782.gif" width="30"> Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/235294009-c710be52-f1f2-4553-a53f-6e14b3522782.gif" width="30"> Pinned Repositories
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🚀 Project Alpha</h3>
-
-<div align="center">  
-<a href="https://github.com/vishalranaut/project-alpha">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalranaut&repo=project-alpha&theme=radical&hide_border=true&bg_color=0D1117" alt="Project Alpha" />
+<a href="https://github.com/vishalranaut?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalranaut&repo=vishalranaut&theme=radical&hide_border=true&border_radius=15" />
 </a>
 
-<p>
-  <a href="https://github.com/vishalranaut/project-alpha">
-    <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://project-alpha-demo.vercel.app">
-    <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+<br/><br/>
 
-<p><strong>Tech Stack:</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-<p><sub>A full-stack application showcasing modern web development practices with real-time features.</sub></p>
-
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">⚡ Project Beta</h3>
-
-<div align="center">
-<a href="https://github.com/vishalranaut/project-beta">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalranaut&repo=project-beta&theme=radical&hide_border=true&bg_color=0D1117" alt="Project Beta" />
+<a href="https://github.com/vishalranaut?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<p>
-  <a href="https://github.com/vishalranaut/project-beta">
-    <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://project-beta-demo.netlify.app">
-    <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=netlify" />
-  </a>
-</p>
-
-<p><strong>Tech Stack:</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-<p><sub>High-performance web app with server-side rendering and advanced state management.</sub></p>
-
 </div>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">🔥 Project Gamma</h3>
-
-<div align="center">
-<a href="https://github.com/vishalranaut/project-gamma">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalranaut&repo=project-gamma&theme=radical&hide_border=true&bg_color=0D1117" alt="Project Gamma" />
-</a>
-
-<p>
-  <a href="https://github.com/vishalranaut/project-gamma">
-    <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://project-gamma-demo.herokuapp.com">
-    <img src="https://img.shields.io/badge/Demo-Live-green?style=for-the-badge&logo=heroku" />
-  </a>
-</p>
-
-<p><strong>Tech Stack:</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
-
-<p><sub>Enterprise-level microservices architecture with real-time data processing.</sub></p>
-
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">💎 Project Delta</h3>
-
-<div align="center">
-<a href="https://github.com/vishalranaut/project-delta">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalranaut&repo=project-delta&theme=radical&hide_border=true&bg_color=0D1117" alt="Project Delta" />
-</a>
-
-<p>
-  <a href="https://github.com/vishalranaut/project-delta">
-    <img src="https://img.shields.io/badge/Repo-View-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://project-delta-docs.gitbook.io">
-    <img src="https://img.shields.io/badge/Docs-Read-orange?style=for-the-badge&logo=gitbook" />
-  </a>
-</p>
-
-<p><strong>Tech Stack:</strong></p>
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-</p>
-
-<p><sub>High-performance backend service built with Rust, deployed on Kubernetes cluster.</sub></p>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🎯 More Projects
-
-<p>
-  <a href="https://github.com/vishalranaut?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-100+%20repositories-blue?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"> GitHub Trophies
 
@@ -420,7 +274,7 @@ Rust         ██░░░░░░░░░░░░░░░░░░   10.2
   <img src="https://github-profile-trophy.vercel.app/?username=vishalranaut&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophy" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Current Focus & Goals
 
@@ -499,7 +353,7 @@ exploring: [
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="30"> Random Dev Quote
 
@@ -516,7 +370,7 @@ exploring: [
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+---
 
 <div align="center">
 
@@ -579,10 +433,6 @@ exploring: [
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### ⭐ Don't forget to star some repositories if you find them interesting!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
 ---
 
 <p align="center">
@@ -591,7 +441,7 @@ exploring: [
 
 <div align="center">
 
-### Show some ❤️ by starring repositories you find interesting!
+### ⭐ Show some love by starring repositories you find interesting!
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
