@@ -1,9 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Ranaut&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
 
+<br/>
+
 <div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Architecting+Digital+Excellence+%F0%9F%92%A1;Node.js+%7C+React+%7C+Angular+Expert;Building+Next-Gen+Solutions+%E2%9A%A1" alt="Typing SVG" />
 
+<br/>
 <br/>
 
 <p align="center">
@@ -17,9 +20,15 @@
   <img src="https://img.shields.io/github/stars/vishalranaut?style=for-the-badge&logo=github&color=yellow" alt="Stars"/>
 </p>
 
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
+<br/>
+
 </div>
+
+<br/>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -217,7 +226,6 @@ Rust         ██░░░░░░░░░░░░░░░░░░   10.2
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ed-41a7-80eb-af6098cc2c97.png" alt="Git" width="65" height="65" />
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="65" height="65" />
 </p>
 
@@ -233,36 +241,6 @@ Rust         ██░░░░░░░░░░░░░░░░░░   10.2
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalranaut&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalranaut&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalranaut&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294009-c710be52-f1f2-4553-a53f-6e14b3522782.gif" width="30"> Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/vishalranaut?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalranaut&repo=vishalranaut&theme=radical&hide_border=true&border_radius=15" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/vishalranaut?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
