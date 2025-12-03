@@ -113,12 +113,12 @@ const vishal = {
 ### 📈 Weekly Development Breakdown
 
 ```text
-TypeScript   ████████████████░░░░   75.2%
+TypeScript   ███████████████░░░░░   75.2%
 JavaScript   ███████░░░░░░░░░░░░░   35.8%
 React        ██████████░░░░░░░░░░   48.3%
 Node.js      ████████████░░░░░░░░   60.7%
-Python       ████░░░░░░░░░░░░░░░░   15.4%
-Rust         ██░░░░░░░░░░░░░░░░░░   8.2%
+Python       ███░░░░░░░░░░░░░░░░░   15.4%
+Rust         ██░░░░░░░░░░░░░░░░░░   10.2%
 ```
 
 </div>
@@ -529,7 +529,7 @@ exploring: [
 ### 📬 Reach Out to Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:vishalranaut@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/vishal-ranaut/">
@@ -538,7 +538,7 @@ exploring: [
   <a href="https://twitter.com/vishalranaut">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://vishalranaut.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://dev.to/vishalranaut">
