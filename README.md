@@ -1,46 +1,67 @@
-# Vishal Ranaut
+# Vishal Ranaut — Software Engineer / Full Stack Developer
 
 <div align="center">
-  <p><strong>Full-stack engineer</strong> crafting reliable web & mobile products.</p>
-  <p><kbd>React</kbd> · <kbd>Node.js/NestJS</kbd> · <kbd>DX-first</kbd></p>
-  <sub>India-based · Remote-first · Open to collab</sub>
+  <p><strong>4+ years building responsive, secure, and scalable web applications</strong></p>
+  <p>React · Next.js · Node.js · TypeScript · GraphQL · WebSockets</p>
+  <sub>India-based · Remote-first · Open to collaboration</sub>
+
+  <svg role="img" width="240" height="48" viewBox="0 0 240 48" xmlns="http://www.w3.org/2000/svg" aria-hidden="false">
+    <title>Subtle animated dots</title>
+    <g>
+      <circle cx="72" cy="24" r="6" fill="#06b6d4">
+        <animate attributeName="cy" values="24;12;24" dur="0.9s" repeatCount="indefinite" begin="0s"/>
+      </circle>
+      <circle cx="120" cy="24" r="6" fill="#7c3aed">
+        <animate attributeName="cy" values="24;12;24" dur="0.9s" repeatCount="indefinite" begin="0.15s"/>
+      </circle>
+      <circle cx="168" cy="24" r="6" fill="#f97316">
+        <animate attributeName="cy" values="24;12;24" dur="0.9s" repeatCount="indefinite" begin="0.3s"/>
+      </circle>
+    </g>
+  </svg>
+
 </div>
 
 ---
 
-### Signal bar
-- 🎯 5+ yrs shipping at scale (B2B + consumer)
-- 🎨 Design-system minded; accessible, themeable UI kits
-- ⚡ Fast feedback: crisp PRs, benchmarks over vibes
-- 🛰️ Cloud fluent: AWS/GCP/Azure, edge/serverless when it pays
+## About
 
-### Signature moves
-- **Frontend:** product-ready component libraries, resilient form/state patterns, accessibility first.
-- **Backend:** clean contracts (REST/GraphQL/tRPC), auth/rate limits done right, caching that earns its keep.
-- **Systems:** pragmatic microservices, Kafka/RabbitMQ for events, CI/CD tuned for fast loops.
-- **Data:** Postgres/Mongo/Redis, schema design, migrations, performance you can measure.
+A dedicated Software Engineer and Full Stack Developer focused on clean architecture, performance, and user-centered design. I deliver maintainable full-stack systems using modern JavaScript/TypeScript, scalable backend services, and production-ready frontend applications.
 
+## Technical Snapshot
 
-### How I work
-- Start with the smallest shippable slice and a clear success metric.
-- Living architecture notes (decision logs > heavy diagrams).
-- Demo early, test in CI, measure in prod; no surprise migrations.
-- Direct async comms, crisp PRs, and numbers to prove wins.
+- **Frontend:** HTML5, CSS3, Responsive Design, React, Next.js, Hooks, Redux Toolkit, Context API
+- **Backend:** Node.js, Express, TypeScript, RESTful APIs, GraphQL, gRPC, Socket.io
+- **Databases:** PostgreSQL, MySQL, MongoDB; caching with Redis; ORM: Sequelize
+- **Cloud & DevOps:** AWS (EC2, Lambda, API Gateway, SQS, SNS), Docker, CI/CD, PM2
+- **Messaging & Realtime:** RabbitMQ, SQS, WebSockets, streaming patterns
+- **Security & Testing:** OAuth2, JWT, HTTPS, Helmet.js, rate limiting, Jest, React Testing Library
 
-### Fit check — bring me in when…
-- You need a design-system lead who sweats DX and accessibility.
-- You want backend guardrails for auth, caching, and contract drift.
-- You’re moving a React/Node stack to edge/serverless and need safety rails.
-- You want cross-platform features without rewriting everything.
+## Highlights
 
-### Toolbox
-`TypeScript` • `React/Next.js` • `React Native/Expo` • `Node.js/NestJS` • `tRPC` • `GraphQL` • `PostgreSQL` • `Redis` • `Docker` • `AWS/GCP/Azure` • `CI/CD` • `Playwright/Vitest`
+- Built reusable, performance-optimized component libraries and accessible UI systems.
+- Designed and implemented robust REST and GraphQL APIs with strong security and observability.
+- Implemented event-driven architectures with RabbitMQ/Redis for scalable processing.
+- Automated deployments and monitoring in AWS; improved reliability with CI/CD and infra as code.
 
-### Links
+## How I Work
+
+- Start small: ship an MVP slice with clear success metrics.
+- Emphasize testability, observability, and measurable performance.
+- Prefer clear decision logs and incremental architecture improvements.
+- Foster cross-functional collaboration through concise PRs and demos.
+
+## Quick Links
+
 - Portfolio: https://vishal-ranaut.vercel.app/
 - GitHub: https://github.com/vishalranaut
 - LinkedIn: https://www.linkedin.com/in/vishal-ranaut
 
-### Let’s build
-Open to collaborating on high-impact web/mobile products, design systems, and platform tooling that make teams faster.
+## Contact
+
+- Email: (replace with your email)
+
+---
+
+Want this exported as a LinkedIn summary, a one-line headline, or a PDF resume? I can generate any of those next.
 
