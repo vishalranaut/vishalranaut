@@ -24,7 +24,7 @@
 
 ## 👋 About
 
-I'm a **Software Engineer / Full Stack Developer** with **4+ years of experience** building **responsive, secure, and scalable web applications**.
+I'm a **Software Engineer / Full Stack Developer** with **5+ years of experience** building **responsive, secure, and scalable web applications**.
 
 - 🏗 Clean, maintainable architecture
 - ⚡ Performance-first engineering
